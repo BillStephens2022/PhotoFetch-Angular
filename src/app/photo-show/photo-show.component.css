@@ -1,3 +1,35 @@
+.container {
+  display: block;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.15rem;
+}
+
+button {
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  font-weight: 900;
+  background-color: steelblue;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: 2px 2px 15px white;
+  letter-spacing: 0.15rem;
+  
+}
+
+button:hover {
+    transition: transform 0.2s ease-in;
+    transform: scale(1.05);
+}
+
 img {
-    width: 300px;
+  width: 300px;
+  border-radius: 10px;
 }
