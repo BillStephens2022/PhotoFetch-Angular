@@ -19,7 +19,7 @@
   
   ## Installation
   
-  Deployed URL:
+  Deployed URL:  https://billstephens2022.github.io/PhotoFetch-Angular/
   
   ## Usage
   
